@@ -1,2 +1,20 @@
 # mnist-digit-recognition
-Handwritten number recognition or tensorflow
+# تشخیص اعداد دست‌نویس با TensorFlow
+
+## پروژه چیست؟
+یک شبکه عصبی ساده با TensorFlow/Keras که اعداد دست‌نویس (۰ تا ۹) را تشخیص می‌دهد.
+
+## دقت مدل
+بین ۹۰ تا ۹۹ درصد روی دیتاست MNIST
+
+## تکنولوژی‌ها
+- Python
+- TensorFlow / Keras
+- NumPy
+
+## نحوه اجرا
+1. فایل mnist_model.ipynb را در Google Colab یا Jupyter باز کنید
+2. سلول‌ها را به ترتیب اجرا کنید
+
+## نتیجه
+مدل با دقت بالا اعداد را تشخیص می‌دهد. این اولین پروژه من در حوزه یادگیری عمیق است.
